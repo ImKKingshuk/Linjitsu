@@ -1,7 +1,7 @@
 <h1 align="center">Linjitsu</h1>
 <h3 align="center">v1.0.1</h3>
 
-Linjitsu is an all-encompassing, versatile command-line tool designed for efficient management of Linux package managers. With a wide range of functionalities, Linjitsu streamlines the process of handling packages across various Linux distributions, offering a unified and powerful toolkit for package installation, updates, cleaning, and more. Simplify your Linux package management with Linjitsu!
+`Linjitsu : The Ultimate Linux Package Manager` is an all-encompassing, versatile command-line tool designed for efficient management of Linux package managers. With a wide range of functionalities, Linjitsu streamlines the process of handling packages across various Linux distributions, offering a unified and powerful toolkit for package installation, updates, cleaning, and more. Simplify your Linux package management with Linjitsu!
 
 ## What's New (v1.0.1)
 
