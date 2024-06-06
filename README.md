@@ -54,7 +54,7 @@ Linjitsu is an all-encompassing, versatile command-line tool designed for effici
 
 ## Contributing
 
-Contributions to `Linjitsu` are highly welcomed! Feel free to report issues, suggest enhancements, or submit pull requests. Let's together make Linux package management more accessible, powerful, and efficient!
+Contributions to `Linjitsu : The Ultimate Linux Package Manager` are highly welcomed! Feel free to report issues, suggest enhancements, or submit pull requests. Let's together make Linux package management more accessible, powerful, and efficient!
 
 ## Disclaimer
 
