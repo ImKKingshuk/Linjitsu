@@ -19,7 +19,6 @@ declare -A package_managers=(
 )
 
 
-
 print_banner() {
     local banner=(
         "******************************************"
