@@ -58,7 +58,7 @@ Contributions to `Linjitsu` are highly welcomed! Feel free to report issues, sug
 
 ## Disclaimer
 
-The developer of `Linjitsu` is not responsible for any misuse or illegal activities conducted with this tool. Ensure proper authorization before using `Linjitsu : The Ultimate Linux Package Manager` for package management or system modifications. Always adhere to ethical practices and comply with all applicable laws and regulations.
+The developer of `Linjitsu : The Ultimate Linux Package Manager` is not responsible for any misuse or illegal activities conducted with this tool. Ensure proper authorization before using `Linjitsu : The Ultimate Linux Package Manager` for package management or system modifications. Always adhere to ethical practices and comply with all applicable laws and regulations.
 
 ## Acknowledgments
 
