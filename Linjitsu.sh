@@ -231,6 +231,7 @@ while true; do
             ;;
     esac
 
+    
     if [[ "$pm" != "Firmware" ]]; then
         while true; do
             display_package_menu "$pm"
