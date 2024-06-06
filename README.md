@@ -38,7 +38,7 @@ Linjitsu is an all-encompassing, versatile command-line tool designed for effici
 
 ## Usage
 
-1. **Launch Linjitsu**:
+1. **Launch Linjitsu : The Ultimate Linux Package Manager**:
 
    ```bash
    bash Linjitsu.sh
